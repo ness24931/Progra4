@@ -1,0 +1,25 @@
+{
+  "name": "cr.una.project",
+  "version": "1.0.0",
+  "description": "proyecto una progra 4 2020",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://Ness2493@bitbucket.org/Ness2493/proyecto-1.git)"
+  },
+  "author": "Nestor Pasos",
+  "license": "ISC"
+}
